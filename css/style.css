@@ -6,12 +6,12 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-  }
+}
   header {
     display: block;
     background-color: transparent;
     color: #d9fb03;
-  }
+}
   header ul { 
   text-align: center;
   color: #d9fb03;
